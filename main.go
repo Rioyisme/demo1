@@ -1,7 +1,7 @@
 package demo1
 
-import "github.com/Rioyisme/demo"
+import demo999 "github.com/Rioyisme/demo999"
 
 func Demo1() {
-	demo.Demo()
+	demo999.Demo()
 }
